@@ -10,6 +10,11 @@ public class app {
 
 	public static void main(String[] args) {
 
+<<<<<<< HEAD
+=======
+		// In java 26, we cannot use the application context
+
+>>>>>>> e96231379907b1c228324802164b150e579c1014
 		ApplicationContext context = SpringApplication.run(app.class, args);
 		
 		//myObj object is containing the bean class
