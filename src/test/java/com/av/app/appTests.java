@@ -1,10 +1,10 @@
-package com.av.algorithmvisualizer;
+package com.av.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AlgorithmvisualizerApplicationTests {
+class appTests {
 
 	@Test
 	void contextLoads() {
