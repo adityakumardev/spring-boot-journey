@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.av</groupId>
-	<artifactId>algorithmvisualizer</artifactId>
+	<artifactId>app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>algorithmvisualizer</name>
+	<name>app</name>
 	<description/>
 	<url/>
 	<licenses>
